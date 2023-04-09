@@ -1,6 +1,10 @@
 # Anti-Eulen-Lua-Injection-FiveM
-Detects EulenCheats Lua Injection by creating new resource.
+This code detects the Lua Injection of EulenCheats that creates a new resource.
 
-This method is used by some anticheats and Eulen will patch it i guess.
+Some anticheats use this method, EulenCheats may patch this method in the future.
 
 **Get Good Get Fiveguard**
+
+https://fiveguard.net
+
+https://discord.gg/fiveguard
